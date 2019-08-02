@@ -13,7 +13,7 @@ Titanic Machine Learning From Disaster. The goal of this repository is to provid
 #### Data Handling, Analysis and Visualizations
 *   `Import data with pandas`
 *   `Combine Train and Test`
-*   `append function to combine both files` this exercise reduces the coding as you are applying all functions only once (on the combined      file), the hustle to do it separately on both files vanishes.
+*   `append function to combine both files` this exercise reduces the coding as you are applying all functions only once (on the combined      file), the hassle to do it separately on both files vanishes.
 *   `Clean Data and replace null values with best of Mean,Median or mode.`
 *   `Visualizations through Matplolib` used histograms
 
